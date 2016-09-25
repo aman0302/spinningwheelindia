@@ -33,6 +33,7 @@ body {
 }
 
 #coming_soon{
+	    letter-spacing: 4px;
 	position: absolute;
 color: #eadeb9;
 bottom: 0;
